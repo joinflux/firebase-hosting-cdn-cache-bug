@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "api-demo-94c7a"
+  },
+  "targets": {
+    "api-demo-94c7a": {
+      "hosting": {
+        "api": [
+          "api-cdn-cache"
+        ],
+        "website": [
+          "api-demo-94c7a"
+        ]
+      }
+    }
+  }
+}
