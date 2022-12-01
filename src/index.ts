@@ -23,7 +23,7 @@ app.get("/date", (_, res) => {
   const seconds = date_ob.getSeconds();
 
   // simulate a 404 on a GET request for every 5th request
-  if (counter % 5 === 0) {
+  if (counter % 2 === 0) {
     // we are randomly adding some delays to test if this makes any difference
     if (Math.random() > 0.5) sleep(10);
     return res.status(404).json();
