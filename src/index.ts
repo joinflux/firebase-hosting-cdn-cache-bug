@@ -1,5 +1,6 @@
 import cors from "cors";
 import express from "express";
+import helmet from "helmet";
 
 const app = express();
 const port = process.env.PORT ?? 3000;
@@ -7,6 +8,7 @@ let counter = 0;
 
 app.use(cors());
 app.use(express.json());
+app.use(helmet());
 
 app.get("/date", (_, res) => {
   counter++;
