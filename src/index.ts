@@ -4,9 +4,11 @@ const app = express();
 const port = process.env.PORT ?? 3000;
 let counter = 0;
 
+app.use(express.json());
+
 app.get("/date", (_, res) => {
-  console.log("received a request", { counter });
   counter++;
+  console.log("received a request", { counter });
 
   const date_ob = new Date();
   const date = ("0" + date_ob.getDate()).slice(-2);
