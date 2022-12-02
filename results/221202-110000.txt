@@ -1,0 +1,292 @@
+Test Results on 02/12/22 at 11am Melbourne time
+==============
+
+➜ bin/test.sh
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 
+Cache Control Header: 
+---------------------------------
+Cache Hits: 0
+Status: 200
+Cache Control Header: < cache-control: private
+---------------------------------
+Cache Hits: 0
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 3
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 3
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 20
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 23
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 3
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 3
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 1
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 4
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 2
+Status: 404
+Cache Control Header: 
+---------------------------------
+Cache Hits: 4
+Status: 404
+Cache Control Header:
