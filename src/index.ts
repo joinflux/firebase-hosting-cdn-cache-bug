@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 app.use(helmet());
 
-app.get("/date", (_, res) => {
+app.get("/date", async (_, res) => {
   counter++;
   console.log("received a request", { counter });
 
@@ -25,7 +25,7 @@ app.get("/date", (_, res) => {
   // simulate a 404 on a GET request for every 5th request
   if (counter % 2 === 0) {
     // we are randomly adding some delays to test if this makes any difference
-    if (Math.random() > 0.5) sleep(10);
+    if (Math.random() > 0.5) await sleep(10);
     return res.status(404).json();
   }
 
